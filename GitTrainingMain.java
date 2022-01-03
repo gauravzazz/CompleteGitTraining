@@ -15,4 +15,8 @@ class Main{
         System.out.println("This is feature ON uat");
     }
 
+    public static void anotherFetureFromFeatureFromUAT(){
+        System.out.println("This is new feature");
+    }
+
 }
