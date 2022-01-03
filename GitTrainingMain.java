@@ -27,11 +27,17 @@ class Main{
   public static void newfeatureFromOtherDeveloper(){
         System.out.println("This is this is feture from other developer");
     }
+<<<<<<< HEAD
 
     public static void newfeatureFromMe(){
         System.out.println("This is this is feture from other developer");
     }
 
+=======
+public static void ANothenewfeatureFromOtherDeveloper(){
+        System.out.println("This is this is feture from other developer");
+    }
+>>>>>>> 7a07d11d5cdb9fdcf65475e3c395eb813f9094ad
 
 }
 
