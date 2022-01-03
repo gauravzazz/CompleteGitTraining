@@ -11,5 +11,8 @@ class Main{
     public static void featureUAT(){
         System.out.println("This is feature ON uat");
     }
+    public static void branchFromFeatureFromUAT(){
+        System.out.println("This is feature ON uat");
+    }
 
 }
