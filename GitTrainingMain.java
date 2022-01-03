@@ -8,4 +8,8 @@ class Main{
     System.out.println("This is feature release");
   }
 
+    public static void featureUAT(){
+        System.out.println("This is feature ON uat");
+    }
+
 }
