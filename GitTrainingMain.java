@@ -28,6 +28,10 @@ class Main{
         System.out.println("This is this is feture from other developer");
     }
 
+    public static void newfeatureFromMe(){
+        System.out.println("This is this is feture from other developer");
+    }
+
 
 }
 
