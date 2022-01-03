@@ -27,7 +27,9 @@ class Main{
   public static void newfeatureFromOtherDeveloper(){
         System.out.println("This is this is feture from other developer");
     }
-
+public static void ANothenewfeatureFromOtherDeveloper(){
+        System.out.println("This is this is feture from other developer");
+    }
 
 }
 
