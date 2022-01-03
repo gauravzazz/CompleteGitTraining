@@ -23,7 +23,10 @@ class Main{
     public static void anotherFetureFromFeatureFromUAT(){
         System.out.println("This is new feature");
     }
-
+   
+  public static void newfeatureFromOtherDeveloper(){
+        System.out.println("This is this is feture from other developer");
+    }
 
 
 }
