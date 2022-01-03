@@ -14,5 +14,9 @@ class Main{
     public static void branchFromFeatureFromUAT(){
         System.out.println("This is feature ON uat");
     }
+  
+   public static void featureFromOtherDeveloper(){
+        System.out.println("This is this is feture from other developer");
+    }
 
 }
